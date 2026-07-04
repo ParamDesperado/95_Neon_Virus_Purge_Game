@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-**[▶ Play Now → YOUR-LINK-HERE](https://your-link-here)**
+**[▶ Play Now](https://95-neon-virus-purge-game.vercel.app/)**
 
 ---
 
@@ -45,23 +45,8 @@ Shoot them down before they reach you. Use your **Firewalls** for cover — but 
 | Fonts | Google Fonts — Orbitron, Inter |
 | Storage | Browser `localStorage` |
 
-No dependencies. No frameworks. No build step.
-
 ---
 
-## 🚀 Run Locally
-
-```bash
-# Clone or download the project
-git clone https://github.com/YOUR_USERNAME/neon-virus-purge.git
-
-# Open in browser (no server needed)
-open index.html
-```
-
-Or just double-click `index.html` — it works offline out of the box.
-
----
 
 ## 📁 Project Structure
 
